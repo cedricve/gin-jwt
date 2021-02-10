@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48baba3f-1708-4f26-9ddf-782f4145c80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gin-jwt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_example/basic/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/_example/basic/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth_jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/auth_jwt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth_jwt_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/auth_jwt_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +69,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="217" width="597" height="490" key="find.popup" timestamp="1612971454907">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="446" y="217" width="597" height="490" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1612971454907" />
   </component>
 </project>
