@@ -1,4 +1,4 @@
-module github.com/cedricve/gin-jwt
+module github.com/cedricve/gin-jwt/v2
 
 go 1.15
 
