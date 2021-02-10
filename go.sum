@@ -1,5 +1,7 @@
 github.com/appleboy/gofight/v2 v2.1.2 h1:VOy3jow4vIK8BRQJoC/I9muxyYlJ2yb9ht2hZoS3rf4=
 github.com/appleboy/gofight/v2 v2.1.2/go.mod h1:frW+U1QZEdDgixycTj4CygQ48yLTUhplt43+Wczp3rw=
+github.com/cedricve/jwt-go v3.2.0+incompatible h1:qkEeWUW3ZkNPQc7w40Q3DDBJaIqfj+51CPVircC6X8k=
+github.com/cedricve/jwt-go v3.2.0+incompatible/go.mod h1:DOx2VohNf6YcKXsnuAQ0u7PobvWqO59uzJyMxD9p4/w=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
